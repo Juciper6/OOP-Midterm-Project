@@ -42,7 +42,7 @@ Expected Output: Error message blocking additional withdrawals.
 Test Case 5: Check Interest Earned on Savings Account
 Input: Deposit 2000 and receive interest based on 10%
 Expected Output: Receive 10 interest after the deposit.
-Expected Output: Total balance should be 2010.
+Expected Output: Total balance should be 2200.
 
 Test Case 6: Overdraft on Checking Account
 Input: Withdraw 10500 from a Checking Account with 500 balance
